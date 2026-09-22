@@ -254,7 +254,7 @@ cd logistic-regression-from-scratch
 Run the Python file or open the notebook:
 
 ```bash
-python logistic_regression.py
+python heart_disease_prediction1.ipynb
 ```
 
 ## License
