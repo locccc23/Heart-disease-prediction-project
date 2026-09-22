@@ -211,13 +211,12 @@ This experiment showed that **training parameters can affect model performance**
 
 ## Future Improvements
 
-* [ ] Standardize the input features
-* [ ] Implement EDA to gain deep insights into the individual characteristics of the data
-      and also how each feature relates to our main goal. 
-* [ ] Analyze feature importance
-* [ ] Compare performance before and after feature scaling.
-* [ ] Use cross-validation to obtain a more reliable estimate of model performance
-* [ ] Compare the from-scratch implementation with built-in logistic regression
+* Standardize the input features
+* Implement EDA to gain deep insights into the individual characteristics of the data
+  and also how each feature relates to our main goal
+* Analyze feature importance
+* Compare performance before and after feature scaling
+* Use cross-validation to obtain a more reliable estimate of model performance
 
 ## Project Structure
 
